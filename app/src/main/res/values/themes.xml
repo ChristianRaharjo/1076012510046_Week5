@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Week4Class" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.Week4Homework" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>
