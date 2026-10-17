@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.week4_class"
+    namespace = "com.example.week4.classwork"
     compileSdk {
         version = release(37)
     }

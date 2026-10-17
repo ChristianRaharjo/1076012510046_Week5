@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Week4Class">
         <activity
-            android:name="com.example.week4_homework_soal2.Soal2Activity"
+            android:name="com.example.week4.soal2.Soal2Activity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.Week4Homework"
@@ -23,6 +23,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.example.week4.soal1.MainActivity"
+            android:exported="true"
+            android:label="Soal 1"
+            android:theme="@style/Theme.Week4Homework" />
     </application>
 
 </manifest>
